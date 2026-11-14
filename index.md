@@ -4,7 +4,7 @@
 
 ## Overview
 
-KanjiLens ("the App") is a Japanese kanji learning application that recognizes kanji with on-device AI. The App has no user accounts, no ads, and no analytics, and the developer does not collect or receive any of your data.
+KanjiLens ("the App") is a Japanese kanji learning application that recognizes kanji with on-device AI. The App has no user accounts, no ads, and no analytics of its own, and the developer does not collect or receive any of your data.
 
 ## What Stays on Your Device
 
