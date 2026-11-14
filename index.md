@@ -40,4 +40,4 @@ This policy may be updated from time to time. Changes will be reflected in the "
 
 ## Contact
 
-If you have questions about this privacy policy, please contact: **kanjilens.app@gmail.com**
+If you have questions about this privacy policy, please contact: **oribraverman.apps@gmail.com**
